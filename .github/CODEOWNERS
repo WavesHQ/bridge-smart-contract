@@ -1,0 +1,17 @@
+# Define individuals that are responsible for code in a repository.
+# More details are here: https://help.github.com/articles/about-codeowners/
+
+/.husky/                                        @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+/.github/                                       @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+
+.editorconfig                                   @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+.eslintignore                                   @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+.eslintrc                                       @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+.gitignore                                      @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+.nvmrc                                          @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+
+LICENSE                                         @thedoublejay @weiyuan95
+package.json                                    @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+pnpm-lock.json                                  @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+README.md                                       @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
+tsconfig.json                                   @thedoublejay @greggtan @weiyuan95 @Abhishekkochar @cuongquangnam
