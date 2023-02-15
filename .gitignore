@@ -95,3 +95,7 @@ cdk.out
 
 # generated code
 generated
+
+#Hardhat generated files
+cache
+artifacts
