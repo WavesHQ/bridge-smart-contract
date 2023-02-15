@@ -1,4 +1,4 @@
-# smartcontracts
+# bridge-smart-contract
 
 A package which contains the Ethereum smart contracts for the DeFiChain to Ethereum bridge.
 
